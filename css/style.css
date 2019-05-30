@@ -67,14 +67,14 @@ ol {
 	Helper CSS
 -----------------------*/
 .spad {
-	padding-top: 125px;
-	padding-bottom: 110px;
+	padding-top: 55px;
+	padding-bottom: 96px;
 }
 
 .section-title h2 {
 	display: inline-block;
 	position: relative;
-	margin-bottom: 110px;
+	margin-bottom: 45px;
 	padding-bottom: 2px;
 	line-height: normal;
 }
@@ -271,7 +271,7 @@ ol {
 
 /* Porgess bar */
 .single-progress-item {
-	margin-bottom: 35px;
+	margin-bottom: 18px;
 	position: relative;
 }
 
@@ -307,7 +307,7 @@ ol {
 
 /* Progress dots */
 .language-progress {
-	max-width: 280px;
+	max-width: 295px;
 	list-style: none;
 }
 
@@ -410,11 +410,11 @@ ol {
 }
 
 .hero-image {
-	padding-top: 70px;
+	padding-top: 0px;
 }
 
 .hero-info h2 {
-	margin-bottom: 30px;
+	margin-bottom: 10px;
 }
 
 .hero-info ul {
@@ -424,7 +424,7 @@ ol {
 .hero-info ul li {
 	font-size: 24px;
 	color: #808181;
-	margin-bottom: 15px;
+	margin-bottom: 3px;
 }
 
 .hero-info ul li span {
@@ -500,7 +500,7 @@ ol {
 }
 
 .resume-list li {
-	margin-bottom: 120px;
+	margin-bottom: 63px;
 	position: relative;
 }
 
@@ -521,7 +521,7 @@ ol {
 }
 
 .resume-list h2 {
-	font-size: 72px;
+	font-size: 50px;
 	margin-bottom: 10px;
 }
 
@@ -530,7 +530,7 @@ ol {
 	text-transform: uppercase;
 	color: #808181;
 	margin-top: 10px;
-	margin-bottom: 45px;
+	margin-bottom: 17px;
 }
 
 .resume-list p {
@@ -810,13 +810,13 @@ ol {
 
 .home-three-style .main-left-area .section-title h2,
 .home-four-style .main-left-area .section-title h2 {
-	margin-bottom: 130px;
+	margin-bottom: 30px;
 }
 
 .home-three-style .main-right-area,
 .home-four-style .main-right-area {
-	padding-top: 200px;
-	padding-left: 110px;
+	padding-top: 195px;
+	padding-left: 90px;
 }
 
 .home-three-style .resume-list li,
@@ -1237,7 +1237,7 @@ ol {
 		margin-left: 10%;
 	}
 	.hero-info ul li span {
-		min-width: 180px;
+		min-width: 178px;
 	}
 	.portfolio-item .port-pic {
 		height: 310px;
