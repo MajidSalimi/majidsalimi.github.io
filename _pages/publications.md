@@ -12,7 +12,7 @@ author_profile: true
 [[PDF](http://majidsalimi.github.io/files/CrisciIWOCL22.pdf) | [DOI](https://doi.org/10.1145/3529538.3529688) | [BibTeX](http://majidsalimi.github.io/files/CrisciIWOCL22.md)]
 
 - M. Salimi Beni and B. Cosenza, “An analysis of performance variability on dragonfly+ topology,” in 2022 IEEE International Conference on Cluster Computing (CLUSTER), IEEE, 2022, pp. 500–501.
-[[PDF](http://majidsalimi.github.io/files/SalimiBeniCLUSTER22.pdf) | [DOI](10.1109/CLUSTER51413.2022.00061) | [POSTER](http://majidsalimi.github.io/files/SalimiBeniPosterCluster22.pdf) |[BibTeX](http://majidsalimi.github.io/files/SalimiBeniCLUSTER22.md)]
+[[PDF](http://majidsalimi.github.io/files/SalimiBeniCLUSTER22.pdf) | [DOI](https://doi.org/10.1109/CLUSTER51413.2022.00061) | [POSTER](http://majidsalimi.github.io/files/SalimiBeniPosterCluster22.pdf) | [BibTeX](http://majidsalimi.github.io/files/SalimiBeniCLUSTER22.md)]
 
 - A. H. Sojoodi, M. Salimi Beni, and F. Khunjush, “Ignite-GPU: A GPU-enabled in-memory computing architecture on clusters,” The Journal of Supercomputing, vol. 77, no. 3, pp. 3165–3192, 2020.
 [[PDF](http://majidsalimi.github.io/files/SojoodiJSUPERCOMPUTING20.pdf) | [DOI](https://doi.org/10.1007/s11227-020-03390-z) | [BibTeX](http://majidsalimi.github.io/files/CrisciIWOCL22.md)]
