@@ -11,10 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, University of Salerno, Italy [2020-now]
+* M.Sc. in Computer Engineering - Software, Shiraz University, Iran, 2020.
+* B.Sc. in Computer Engineering - Software, University of Birjand, Iran, 2016.
 
+
+<!-- 
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -56,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
