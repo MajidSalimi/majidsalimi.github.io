@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+About me
+======
 Currently, I am a Ph.D. student in computer science at the University of Salerno (Italy). I received my Master degree in computer engineering from Shiraz University (Iran) in 2020, and my Bachelor's degree in computer software engineering from the University of Birjand (Iran) in 2016. My main research interest is high performance and parallel computing. Currently, I'm investigating communication optimization and performance variability in HPC clusters.
 
 News!
