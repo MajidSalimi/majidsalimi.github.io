@@ -7,13 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 Currently, I am a Ph.D. student in computer science at the University of Salerno (Italy). I received my Master degree in computer engineering from Shiraz University (Iran) in 2020, and my Bachelor's degree in computer software engineering from the University of Birjand (Iran) in 2016. My main research interest is high performance and parallel computing. Currently, I'm investigating communication optimization and performance variability in HPC clusters.
 
 News!
 ======
 - Nov 2022: Our paper won the **Best Paper Award** in [Bench 2022](https://www.benchcouncil.org/bench2022/index.html).
 - Sep 2022: I attended [IEEE Cluster 2022](https://clustercomp.org/2022/) in Heidelberg, Germany.
-- Nov 2020: I started my PhD at the University of Salerno.
+- Nov 2020: I started my PhD at the [University of Salerno](https://web.unisa.it/en/home).
 - Feb 2020: I defended my Master thesis.
 
 
@@ -52,4 +53,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. --> -->
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. --> 
