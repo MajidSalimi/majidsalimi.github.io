@@ -12,6 +12,7 @@ Currently, I am a Ph.D. student in computer science at the University of Salerno
 
 News!
 ======
+- May 2023: I attended [CCGRID 2023](https://ccgrid2023.iisc.ac.in/) in Bangalore, India, to present our paper "EMPI".
 - Nov 2022: Our paper won the **Best Paper Award** in [Bench 2022](https://www.benchcouncil.org/bench2022/index.html).
 - Sep 2022: I attended [IEEE Cluster 2022](https://clustercomp.org/2022/) in Heidelberg, Germany.
 - Nov 2020: I started my PhD at the [University of Salerno](https://web.unisa.it/en/home).
