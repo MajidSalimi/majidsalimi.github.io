@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **[BEST PAPER AWARD]** M. Salimi Beni and B. Cosenza, “An analysis of long-tailed network latency distribution and background traffic on dragonfly+,” in The 14th BenchCouncil International Symposium On Benchmarking, Measuring And Optimizing (Bench 2022), LNCS, 2022, 1–8.
-[[PDF](http://majidsalimi.github.io/files/SalimiBeniBENCH22.pdf) | [VIDEO](https://youtu.be/iErmnQ_t8qg)]
+- **[BEST PAPER AWARD]** M. Salimi Beni and B. Cosenza, “An analysis of long-tailed network latency distribution and background traffic on dragonfly+,” in The 14th BenchCouncil International Symposium On Benchmarking, Measuring And Optimizing (Bench 2022), LNCS, 2022, 123–142.
+[[PDF](http://majidsalimi.github.io/files/SalimiBeniBENCH22.pdf) | [DOI](https://doi.org/10.1007/978-3-031-31180-2_8) | [VIDEO](https://youtu.be/iErmnQ_t8qg) | [Slides](http://majidsalimi.github.io/files/SLIDES_SalimiBeni_Bench_2022.pdf) | [BibTeX](http://majidsalimi.github.io/files/SalimiBeniBENCH22.md)]
 
 - L. Crisci, M. Salimi Beni, B. Cosenza, N. Scipione, D. Gadioli, E. Vitali, G. Palermo, A. Beccari, Towards a Portable Drug Discovery Pipeline with SYCL 2020. InInternational Workshop on OpenCL 2022 May 10 (pp. 1-2).
 [[PDF](http://majidsalimi.github.io/files/CrisciIWOCL22.pdf) | [DOI](https://doi.org/10.1145/3529538.3529688) | [BibTeX](http://majidsalimi.github.io/files/CrisciIWOCL22.md)]
