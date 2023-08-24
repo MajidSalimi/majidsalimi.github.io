@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+- M. Salimi Beni, L. Crisci, and B. Cosenza, “EMPI: Enhanced Message Passing Interface in Modern C++,” in IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing (CCGrid), IEEE, 2023, pp. 141-153.
+[[PDF](http://majidsalimi.github.io/files/SalimiBeniCCGRID23.pdf) | [DOI](https://doi.org/10.1109/CCGrid57682.2023.00023) | [Slides](http://majidsalimi.github.io/files/SLIDES_SalimiBeni_CCGRID_2023.pdf) | [BibTeX](http://majidsalimi.github.io/files/SalimiBeniCCGRID23.md)]
 
 - **[BEST PAPER AWARD]** M. Salimi Beni and B. Cosenza, “An analysis of long-tailed network latency distribution and background traffic on dragonfly+,” in The 14th BenchCouncil International Symposium On Benchmarking, Measuring And Optimizing (Bench 2022), LNCS, 2022, 123–142.
 [[PDF](http://majidsalimi.github.io/files/SalimiBeniBENCH22.pdf) | [DOI](https://doi.org/10.1007/978-3-031-31180-2_8) | [VIDEO](https://youtu.be/iErmnQ_t8qg) | [Slides](http://majidsalimi.github.io/files/SLIDES_SalimiBeni_Bench_2022.pdf) | [BibTeX](http://majidsalimi.github.io/files/SalimiBeniBENCH22.md)]
