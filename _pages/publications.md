@@ -24,7 +24,7 @@ css_class: small-font
 
 - A. H. Sojoodi, M. Salimi Beni, and F. Khunjush, “Ignite-GPU: A GPU-enabled in-memory computing architecture on clusters,” The Journal of Supercomputing, vol. 77, no. 3, pp. 3165–3192, 2021.
 [[PDF](http://majidsalimi.github.io/files/SojoodiJSUPERCOMPUTING20.pdf) | [DOI](https://doi.org/10.1007/s11227-020-03390-z) | [BibTeX](http://majidsalimi.github.io/files/CrisciIWOCL22.md)]
-<span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.1007/s11227-020-03390-z" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s11227-020-03390-z" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 
 - M. Salimi Beni, A. H. Sojoodi, and F. Khunjush, “A GPU-enabled extension for Apache Ignite to facilitate running genetic algorithms,” in 2020 20th International Symposium on Computer Architecture and Digital Systems (CADS), IEEE, 2020, pp. 1–8.
