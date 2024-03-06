@@ -3,6 +3,8 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+css_class: small-font
+
 ---
 - M. Salimi Beni, S. Hunold, and B. Cosenza, “Algorithm Selection of MPI Collectives Considering System Utilization,” in Euro-Par 2023: Parallel Processing Workshops, Springer, 2023, pp. XX-XX.
 [[PDF](http://majidsalimi.github.io/files/Salimibeni_EuroPar_23_PhD_Symposium.pdf) | [Slides](http://majidsalimi.github.io/files/Salimibeni_EuroPar_23_PhD_Symposium_slides.pdf) | [BibTeX](http://majidsalimi.github.io/files/Salimibeni_EuroPar_23_PhD_Symposium.md)]
@@ -21,7 +23,7 @@ author_profile: true
 [[PDF](http://majidsalimi.github.io/files/SalimiBeniCLUSTER22.pdf) | [DOI](https://doi.org/10.1109/CLUSTER51413.2022.00061) | [POSTER](http://majidsalimi.github.io/files/SalimiBeniPosterCluster22.pdf) | [BibTeX](http://majidsalimi.github.io/files/SalimiBeniCLUSTER22.md)]
 
 - A. H. Sojoodi, M. Salimi Beni, and F. Khunjush, “Ignite-GPU: A GPU-enabled in-memory computing architecture on clusters,” The Journal of Supercomputing, vol. 77, no. 3, pp. 3165–3192, 2021.
-[[PDF](http://majidsalimi.github.io/files/SojoodiJSUPERCOMPUTING20.pdf) | [DOI](https://doi.org/10.1007/s11227-020-03390-z) | [BibTeX](http://majidsalimi.github.io/files/CrisciIWOCL22.md)]
+[[PDF](http://majidsalimi.github.io/files/SojoodiJSUPERCOMPUTING20.pdf) | [DOI](https://doi.org/10.1007/s11227-020-03390-z) | [BibTeX](http://majidsalimi.github.io/files/CrisciIWOCL22.md)] <span class="__dimensions_badge_embed__" data-doi="[10.1001/jama.2016.9797](https://doi.org/10.1007/s11227-020-03390-z)" data-style="small_rectangle"></span>
 
 - M. Salimi Beni, A. H. Sojoodi, and F. Khunjush, “A GPU-enabled extension for apache ignite to facilitate running genetic algorithms,” in 2020 20th International Symposium on Computer Architecture and Digital Systems (CADS), IEEE, 2020, pp. 1–8.
 [[PDF](http://majidsalimi.github.io/files/SalimiBeniCADS20.pdf) | [DOI](https://doi.org/10.1109/CADS50570.2020.9211857) | [BibTeX](http://majidsalimi.github.io/files/SalimiBeniCADS20.md)]
