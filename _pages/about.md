@@ -6,7 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
- About
+
+   
+ About me
 ------
 I am an HPC researcher, and a Ph.D. candidate in computer science at the University of Salerno, Italy. 
 During my Ph.D., I have been investigating different optimization potentials in the message-passing interface (MPI) in large-scale HPC systems.
