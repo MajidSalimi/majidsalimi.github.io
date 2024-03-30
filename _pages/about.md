@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
 About me
 ------
 I am an HPC researcher, and a Ph.D. candidate in computer science at the University of Salerno, Italy. 
