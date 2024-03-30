@@ -8,18 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a Ph.D. student in computer science at the University of Salerno (Italy). I received my Master degree in computer engineering from Shiraz University (Iran) in 2020, and my Bachelor's degree in computer software engineering from the University of Birjand (Iran) in 2016. My main research interest is high performance and parallel computing. Currently, I'm investigating communication optimization and performance variability in HPC clusters.
+About me
+======
+I am an HPC researcher, and a Ph.D. candidate in computer science at the University of Salerno, Italy. 
+During my Ph.D., I have been investigating different optimization potentials in the message-passing interface (MPI) in large-scale HPC systems.
+
+Research Interests
+------
+ High Performance Computing, Message Passing in Large-scale HPC systems, Energy Efficiency in HPC, Heterogeneous Computing
 
 News!
 ======
-- Sep 2023: I attended [EURO-PAR 2023](https://2023.euro-par.org/conference/phd-symposium/) in Limassol, Cyprus to present our paper in the PhD Symposium.
+- Sep 2023: I attended [EURO-PAR 2023](https://2023.euro-par.org/conference/phd-symposium/) in Limassol, Cyprus, to present our paper in the PhD Symposium.
 - Aug 2023: I joined [Parallel Computing group](https://www.tuwien.at/inf/par) at TU Wien (Austria) as a visiting researcher.
 - May 2023: I attended [CCGRID 2023](https://ccgrid2023.iisc.ac.in/) in Bangalore, India, to present our paper "[EMPI](https://ieeexplore.ieee.org/abstract/document/10171546)".
 - Nov 2022: Our paper won the **Best Paper Award** in [Bench 2022](https://www.benchcouncil.org/bench2022/index.html).
 - Sep 2022: I attended [IEEE Cluster 2022](https://clustercomp.org/2022/) in Heidelberg, Germany.
 - Nov 2020: I started my PhD at the [University of Salerno](https://web.unisa.it/en/home).
-- Feb 2020: I defended my Master thesis.
+- Feb 2020: I defended my Master's thesis.
 
+Recent Program Committee
+------
+[ASPLOS 2024](https://www.asplos-conference.org/asplos2024/committees/#AE-committee) (AE), [CF 2024](https://www.computingfrontiers.org/2024/index.html) (Poster), [ICTAI 2023](https://ictai.computer.org/2023/committees/committee/)(PC), [HiPC  2023](https://hipc.org/programcomittee/) (sub-reviewer), [CSTY 2023](https://csty2023.org/committee) (PC), [ICECCME 2023](http://www.iceccme.com/)(PC), [CF 2022](https://www.computingfrontiers.org/2022/) (AE), [PARMA-DITAM 2022](https://parma-ditam-workshop.github.io/) (sub-reviewer), [CSAE 2022](http://www.csaeconf.org)(PC), [ECCSIT 2022](https://www.eccsit.org)(PC), [IA3](https://hpc.pnl.gov/IA3/)(AE), [PARMA-DITAM 2021](https://parma-ditam-workshop.github.io/2021/index.html)(sub-reviewer)
+
+======
 
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
