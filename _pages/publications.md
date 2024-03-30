@@ -7,7 +7,7 @@ css_class: small-font
 
 ---
 - M. Salimi Beni, S. Hunold, and B. Cosenza, “Analysis and prediction of performance variability in large-scale computing systems,” in Journal of Supercomputing, Springer, 2024.
-[[DOI](https://doi.org/10.1007/s11227-024-06040-w) | [BibTeX](http://majidsalimi.github.io/files/Salimibeni_jsupercompute_2024.md)]
+[[DOI](https://doi.org/10.1007/s11227-024-06040-w) | [BibTeX](http://majidsalimi.github.io/files/Salimibeni_jsupercompute_2024.md)] <span class="__dimensions_badge_embed__" data-doi="10.1007/s11227-024-06040-w" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 - M. Salimi Beni, S. Hunold, and B. Cosenza, “Algorithm Selection of MPI Collectives Considering System Utilization,” in Euro-Par 2023: Parallel Processing Workshops, Springer, 2023, pp. XX-XX.
 [[PDF](http://majidsalimi.github.io/files/Salimibeni_EuroPar_23_PhD_Symposium.pdf) | [Slides](http://majidsalimi.github.io/files/Salimibeni_EuroPar_23_PhD_Symposium_slides.pdf) | [BibTeX](http://majidsalimi.github.io/files/Salimibeni_EuroPar_23_PhD_Symposium.md)]
