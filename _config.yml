@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Majid's Home Page"
 title_separator          : "-"
 name                     : &name "Majid Salimi Beni"
-description              : &description "Ph.D. student in Computer Science"
+description              : &description "HPC Researcher | Ph.D. student in Computer Science"
 url                      : https://majidsalimi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "majidsalimi.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Majid Salimi Beni"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student in Computer Science | University of Salerno"
+  bio              : "HPC Researcher and Ph.D. Student in Computer Science | University of Salerno"
   location         : "Salerno, Italy"
   employer         :
   pubmed           : 
