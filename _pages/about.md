@@ -12,8 +12,8 @@ redirect_from:
    
  About me
 ------
-I am an HPC researcher, and a Ph.D. candidate in computer science at the University of Salerno, Italy. 
-During my Ph.D., I have been investigating different optimization potentials in the message-passing interface (MPI) in large-scale HPC systems.
+I am an HPC researcher in computer science at the University of Salerno, Italy. 
+During my Ph.D., I have investigated different optimization potentials in the message-passing interface (MPI) in large-scale HPC systems.
 
 Research Interests
 ------
@@ -21,6 +21,7 @@ Research Interests
 
 News!
 ------
+- May 2024: I successfully defended my PhD thesis with an "Excellent" evaluation!
 - Sep 2023: I attended [EURO-PAR 2023](https://2023.euro-par.org/conference/phd-symposium/) in Limassol, Cyprus, to present our paper in the PhD Symposium.
 - Aug 2023: I joined [Parallel Computing group](https://www.tuwien.at/inf/par) at TU Wien (Austria) as a visiting researcher.
 - May 2023: I attended [CCGRID 2023](https://ccgrid2023.iisc.ac.in/) in Bangalore, India, to present our paper "[EMPI](https://ieeexplore.ieee.org/abstract/document/10171546)".
