@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,34 +11,24 @@ redirect_from:
 
 # Experience
 ======
-
 ### Postdoc Fellow  
-**University of Salerno, Italy**
-
-*Feb 2024 - Present*  
+*[Feb 2024 - Present]* University of Salerno, Italy
 
 ### Visiting Researcher  
-**TU Wien, Austria**
-
-*Aug 2024 - Dec 2024*  
+*[Aug 2024 - Dec 2024]*  TU Wien, Austria
 
 # Education
 ======
-
 ### Ph.D. in Computer Science  
-**University of Salerno, Italy**
-
-*2020 - 2024*  
+*[2020 - 2024]*  University of Salerno, Italy
 
 ### M.Sc. in Computer Engineering - Software
-**Shiraz University, Iran**
-
-*2017 - 2020*  
+*[2017 - 2020]*  Shiraz University, Iran
 
 ### B.Sc. in Computer Engineering - Software
-**University of Birjand, Iran**  
+*[2012 - 2016]*  University of Birjand, Iran
 
-*2012 - 2016*  
+
 
 
 
