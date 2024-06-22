@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Experience
-------
+======
 
 ### Postdoc Fellow  
 **University of Salerno, Italy**
@@ -23,7 +23,7 @@ redirect_from:
 *Aug 2024 - Dec 2024*  
 
 # Education
-------
+======
 
 ### Ph.D. in Computer Science  
 **University of Salerno, Italy**
