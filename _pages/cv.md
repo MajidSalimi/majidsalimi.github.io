@@ -5,15 +5,42 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
----
+
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Computer Science, University of Salerno, Italy [2020-now]
-* M.Sc. in Computer Engineering - Software, Shiraz University, Iran, 2020.
-* B.Sc. in Computer Engineering - Software, University of Birjand, Iran, 2016.
+# Experience
+------
+
+### Postdoc Fellow  
+**University of Salerno, Italy**
+
+*Feb 2024 - Present*  
+
+### Visiting Researcher  
+**TU Wien, Austria**
+
+*Aug 2024 - Dec 2024*  
+
+# Education
+------
+
+### Ph.D. in Computer Science  
+**University of Salerno, Italy**
+
+*2020 - 2024*  
+
+### M.Sc. in Computer Engineering - Software
+**Shiraz University, Iran**
+
+*2017 - 2020*  
+
+### B.Sc. in Computer Engineering - Software
+**University of Birjand, Iran**  
+
+*2012 - 2016*  
+
+
 
 
 <!-- 
