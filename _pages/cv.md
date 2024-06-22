@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Experience"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Experience
-======
+---
 ### Postdoc Fellow  
 *[Feb 2024 - Present]* University of Salerno, Italy
 
@@ -18,7 +18,7 @@ redirect_from:
 *[Aug 2024 - Dec 2024]*  TU Wien, Austria
 
 # Education
-======
+---
 ### Ph.D. in Computer Science  
 *[2020 - 2024]*  University of Salerno, Italy
 
