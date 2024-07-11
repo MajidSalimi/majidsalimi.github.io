@@ -21,6 +21,7 @@ Research Interests
 
 News!
 ------
+- Jul 2024: Our paper is accepted in [CLUSTER 2024](https://clustercomp.org/2024/)!
 - May 2024: I am now a PostDoc researcher in HPC at the University of Salerno. 
 - May 2024: I successfully defended my PhD thesis with an "Excellent" evaluation!
 - Sep 2023: I attended [EURO-PAR 2023](https://2023.euro-par.org/conference/phd-symposium/) in Limassol, Cyprus, to present our paper in the PhD Symposium.
