@@ -23,7 +23,7 @@ Research Interests
 News!
 ------
 - Oct 2024: I joined the [Parallel Computing](https://informatics.tuwien.ac.at/orgs/e191-04) research unit at Vienna University of Technology (TU Wien) as a Postdoc.
-- Sep 2024: I attended [CLUSTER 2024](https://clustercomp.org/2024/) in Kobe, Japan, to present our paper.
+- Sep 2024: I attended [CLUSTER 2024](https://clustercomp.org/2024/) in Kobe, Japan, to present our [paper](https://majidsalimi.github.io/files/SalimiBeniCLUSTER24.pdf).
 - Jul 2024: Our paper is accepted in [CLUSTER 2024](https://clustercomp.org/2024/)!
 - May 2024: I am now a PostDoc researcher in HPC at the University of Salerno. 
 - May 2024: I successfully defended my PhD thesis with an "Excellent" evaluation!
