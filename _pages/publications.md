@@ -10,7 +10,7 @@ css_class: small-font
 - M. Salimi Beni, B. Cosenza, and S. Hunold, "MPI Collective Algorithm Selection in the Presence of Process Arrival Patterns", in IEEE International Conference on Cluster Computing (CLUSTER), 2024.
 [[PDF](http://majidsalimi.github.io/files/SalimiBeniCLUSTER24.pdf) | [Slides](http://majidsalimi.github.io/files/SLIDES_SalimiBeniCLUSTER24.pdf) | [DOI](https://doi.org/10.1109/CLUSTER59578.2024.00017) | [BibTeX](http://majidsalimi.github.io/files/SalimiBeniCLUSTER24.md)] <span class="__dimensions_badge_embed__" data-doi="10.1109/CLUSTER59578.2024.00017" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-  - M. Salimi Beni, S. Hunold, and B. Cosenza, “Analysis and prediction of performance variability in large-scale computing systems,” The Journal of Supercomputing, 2024.
+- M. Salimi Beni, S. Hunold, and B. Cosenza, “Analysis and prediction of performance variability in large-scale computing systems,” The Journal of Supercomputing, 2024.
 [[PDF](http://majidsalimi.github.io/files/SalimiBeniJsupercompute2024.pdf) | [DOI](https://doi.org/10.1007/s11227-024-06040-w) | [BibTeX](http://majidsalimi.github.io/files/SalimiBeniJsupercompute2024.md)] <span class="__dimensions_badge_embed__" data-doi="10.1007/s11227-024-06040-w" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 [2023]
