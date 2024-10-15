@@ -11,8 +11,10 @@ redirect_from:
 
 # Experience
 ---
-### Postdoc Fellow  
-*[Feb 2024 - Present]* University of Salerno, Italy
+### Postdoc Researcher  
+*[Oct 2024 - Now]* Vienna University of Technology (TU Wien), Austria
+
+*[Feb 2024 - Oct 2024]* University of Salerno, Italy
 
 ### Visiting Researcher  
 *[Aug 2024 - Dec 2024]*  TU Wien, Austria
