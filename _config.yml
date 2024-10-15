@@ -10,6 +10,7 @@ locale                   : "en-US"
 title                    : "Majid's Home Page"
 title_separator          : "-"
 name                     : &name "Majid Salimi Beni"
+name                     : &name "مجید"
 description              : &description "PhD in Computer Science | HPC Researcher"
 url                      : https://majidsalimi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,8 +83,8 @@ analytics:
 author:
   name             : "Majid Salimi Beni"
   avatar           : "profile.png"
-  bio              : "PhD in Computer Science | PostDoc Fellow @University of Salerno"
-  location         : "Salerno, Italy"
+  bio              : "PhD in Computer Science | PostDoc Fellow @TU Wien"
+  location         : "Vienna, Austria"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=enD4BGIAAAAJ&view_op=list_works"
