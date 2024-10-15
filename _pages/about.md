@@ -12,7 +12,8 @@ redirect_from:
    
  About me
 ------
-I am an HPC researcher at the Department of Computer Science, University of Salerno, Italy. 
+I am a postdoctoral researcher in the [Parallel Computing](https://informatics.tuwien.ac.at/orgs/e191-04) research unit at Vienna University of Technology (TU Wien), Austria.
+Previously, I was a Postdoc at the [Department of Computer Science](https://www.isislab.it/about-us-2/#), University of Salerno, Italy, where I completed my PhD as well. 
 My research interests involve different optimization potentials in the message-passing interface (MPI) in large-scale HPC clusters. Currently, I am exploring different ways to optimize GPU-GPU communications in such systems.
 
 Research Interests
@@ -21,6 +22,8 @@ Research Interests
 
 News!
 ------
+- Oct 2024: I joined the [Parallel Computing](https://informatics.tuwien.ac.at/orgs/e191-04) research unit at Vienna University of Technology (TU Wien) as a Postdoc.
+- Sep 2024: I attended [CLUSTER 2024](https://clustercomp.org/2024/) in Kobe, Japan, to present our paper.
 - Jul 2024: Our paper is accepted in [CLUSTER 2024](https://clustercomp.org/2024/)!
 - May 2024: I am now a PostDoc researcher in HPC at the University of Salerno. 
 - May 2024: I successfully defended my PhD thesis with an "Excellent" evaluation!
@@ -34,7 +37,7 @@ News!
 
 Recent Program Committee
 ------
-[Bench 2024](https://www.benchcouncil.org/bench2024/committess.html) (PC), [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/committees/#AE-committee) (AE), [CF 2024](https://www.computingfrontiers.org/2024/index.html) (AE, Poster), [ICTAI 2023](https://ictai.computer.org/2023/committees/committee/) (PC), [HiPC  2023](https://hipc.org/programcomittee/) (sub-reviewer), [CSTY 2023](https://csty2023.org/committee) (PC), [ICECCME 2023](http://www.iceccme.com/) (PC), [CF 2022](https://www.computingfrontiers.org/2022/) (AE), [PARMA-DITAM 2022](https://parma-ditam-workshop.github.io/) (sub-reviewer), [CSAE 2022](http://www.csaeconf.org) (PC), [ECCSIT 2022](https://www.eccsit.org) (PC), [IA3](https://hpc.pnl.gov/IA3/) (AE), [PARMA-DITAM 2021](https://parma-ditam-workshop.github.io/2021/index.html) (sub-reviewer)
+[BigHPC 2024](https://www.itadata.it/2024/bighpc2024) (PC), [Bench 2024](https://www.benchcouncil.org/bench2024/committess.html) (PC), [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/committees/#AE-committee) (AE), [CF 2024](https://www.computingfrontiers.org/2024/index.html) (AE, Poster), [ICTAI 2023](https://ictai.computer.org/2023/committees/committee/) (PC), [HiPC  2023](https://hipc.org/programcomittee/) (sub-reviewer), [CSTY 2023](https://csty2023.org/committee) (PC), [ICECCME 2023](http://www.iceccme.com/) (PC), [CF 2022](https://www.computingfrontiers.org/2022/) (AE), [PARMA-DITAM 2022](https://parma-ditam-workshop.github.io/) (sub-reviewer), [CSAE 2022](http://www.csaeconf.org) (PC), [ECCSIT 2022](https://www.eccsit.org) (PC), [IA3](https://hpc.pnl.gov/IA3/) (AE), [PARMA-DITAM 2021](https://parma-ditam-workshop.github.io/2021/index.html) (sub-reviewer)
 
  
 -----
