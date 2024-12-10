@@ -13,12 +13,11 @@ redirect_from:
  About me
 ------
 I am a postdoctoral researcher in the [Parallel Computing](https://informatics.tuwien.ac.at/orgs/e191-04) research unit at Vienna University of Technology (TU Wien), Austria.
-Previously, I was a Postdoc at the [Department of Computer Science](https://www.isislab.it/about-us-2/#), University of Salerno, Italy, where I completed my PhD as well. 
-My research interests involve different optimization potentials in the message-passing interface (MPI) in large-scale HPC clusters. Currently, I am exploring different ways to optimize GPU-GPU communications in such systems.
+Previously, I was a Postdoc at the [Department of Computer Science](https://www.isislab.it/about-us-2/#), University of Salerno, Italy, where I completed my PhD in Computer Science. 
 
 Research Interests
 ------
- High Performance Computing, Message Passing in Large-scale HPC systems, Energy Efficiency in HPC, Heterogeneous Computing
+ High Performance and Parallel Computing, Message Passing in Large-scale HPC systems, Energy Efficiency in HPC, Heterogeneous Computing, GPUs
 
 News!
 ------
@@ -37,9 +36,16 @@ News!
 
 Recent Program Committee
 ------
-[BigHPC 2024](https://www.itadata.it/2024/bighpc2024) (PC), [Bench 2024](https://www.benchcouncil.org/bench2024/committess.html) (PC), [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/committees/#AE-committee) (AE), [CF 2024](https://www.computingfrontiers.org/2024/index.html) (AE, Poster), [ICTAI 2023](https://ictai.computer.org/2023/committees/committee/) (PC), [HiPC  2023](https://hipc.org/programcomittee/) (sub-reviewer), [CSTY 2023](https://csty2023.org/committee) (PC), [ICECCME 2023](http://www.iceccme.com/) (PC), [CF 2022](https://www.computingfrontiers.org/2022/) (AE), [PARMA-DITAM 2022](https://parma-ditam-workshop.github.io/) (sub-reviewer), [CSAE 2022](http://www.csaeconf.org) (PC), [ECCSIT 2022](https://www.eccsit.org) (PC), [IA3](https://hpc.pnl.gov/IA3/) (AE), [PARMA-DITAM 2021](https://parma-ditam-workshop.github.io/2021/index.html) (sub-reviewer)
+**Program Committee**: [BigHPC 2024](https://www.itadata.it/2024/bighpc2024), [Bench 2024](https://www.benchcouncil.org/bench2024/committess.html), [ICTAI 2023](https://ictai.computer.org/2023/committees/committee/), [CSTY 2023](https://csty2023.org/committee), [ICECCME 2023](http://www.iceccme.com/), [CSAE 2022](http://www.csaeconf.org), [ECCSIT 2022](https://www.eccsit.org)
 
- 
+**Artifact Evaluation Committee:** [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/committees/#AE-committee), [CF 2024](https://www.computingfrontiers.org/2024/index.html), [CF 2022](https://www.computingfrontiers.org/2022/), [IA3 2022](https://hpc.pnl.gov/IA3/)
+
+**Poster Committee:** [CF 2024](https://www.computingfrontiers.org/2024/index.html)
+
+**Sub-Reviewer:** [HiPC  2023](https://hipc.org/programcomittee/), [PARMA-DITAM 2022](https://parma-ditam-workshop.github.io/), [PARMA-DITAM 2021](https://parma-ditam-workshop.github.io/2021/index.html) 
+
+**Journal Review:** [Journal of Supercomputing](https://link.springer.com/journal/11227)
+
 -----
 
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
