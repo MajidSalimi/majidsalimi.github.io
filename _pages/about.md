@@ -21,7 +21,7 @@ Research Interests
 
 News!
 ------
-- Feb 2025: Our paper about Frequency Scaling is accepted in [IPDPS 2025](https://www.ipdps.org/ipdps2025/2025-call-for-papers.html)!
+- Feb 2025: Our paper about GPU Frequency Scaling is accepted in [IPDPS 2025](https://www.ipdps.org/ipdps2025/2025-call-for-papers.html)!
 - Oct 2024: I joined the [Parallel Computing](https://informatics.tuwien.ac.at/orgs/e191-04) research unit at Vienna University of Technology (TU Wien) as a Postdoc.
 - Sep 2024: I attended [CLUSTER 2024](https://clustercomp.org/2024/) in Kobe, Japan, to present our [paper](https://majidsalimi.github.io/files/SalimiBeniCLUSTER24.pdf).
 - Jul 2024: Our paper is accepted in [CLUSTER 2024](https://clustercomp.org/2024/)!
@@ -37,7 +37,7 @@ News!
 
 Recent Program Committee
 ------
-**Program Committee**: [ISC 2025](https://isc-hpc.com/submissions/research-paper/), [CF 2025](https://www.computingfrontiers.org/2025/orga.html), [BigHPC 2024](https://www.itadata.it/2024/bighpc2024), [Bench 2024](https://www.benchcouncil.org/bench2024/committess.html), [ICTAI 2023](https://ictai.computer.org/2023/committees/committee/), [CSTY 2023](https://csty2023.org/committee), [ICECCME 2023](http://www.iceccme.com/), [CSAE 2022](http://www.csaeconf.org), [ECCSIT 2022](https://www.eccsit.org)
+**Program Committee**: [ICPP 2025](https://icpp2025.sdsc.edu/program/organizing-committee), [ISC 2025](https://isc-hpc.com/submissions/research-paper/), [CF 2025](https://www.computingfrontiers.org/2025/orga.html), [BigHPC 2024](https://www.itadata.it/2024/bighpc2024), [Bench 2024](https://www.benchcouncil.org/bench2024/committess.html), [ICTAI 2023](https://ictai.computer.org/2023/committees/committee/), [CSTY 2023](https://csty2023.org/committee), [ICECCME 2023](http://www.iceccme.com/), [CSAE 2022](http://www.csaeconf.org), [ECCSIT 2022](https://www.eccsit.org)
 
 **Artifact Evaluation Committee:** [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/committees/#AE-committee), [CF 2024](https://www.computingfrontiers.org/2024/index.html), [CF 2022](https://www.computingfrontiers.org/2022/), [IA3 2022](https://hpc.pnl.gov/IA3/)
 
@@ -45,7 +45,7 @@ Recent Program Committee
 
 **Sub-Reviewer:** [CCGRID 2025](https://site.uit.no/ccgrid2025/), [HiPC 2023](https://hipc.org/programcomittee/), [PARMA-DITAM 2022](https://parma-ditam-workshop.github.io/), [PARMA-DITAM 2021](https://parma-ditam-workshop.github.io/2021/index.html) 
 
-**Journal Review:** [Journal of Supercomputing](https://link.springer.com/journal/11227)
+**Journal Review:** [FGCS](https://www.sciencedirect.com/journal/future-generation-computer-systems), [Journal of Supercomputing](https://link.springer.com/journal/11227)
 
 -----
 
