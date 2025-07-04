@@ -8,10 +8,10 @@ css_class: small-font
 ---
 [2025]
 - M. Salimi Beni, R. Laso, B. Cosenza, S. Benkner, and S. Hunold, “Optimizing Distributed Deep Learning Training by Tuning NCCL,” in *Proc. Austrian-Slovenian HPC Meeting (ASHPC25)*, Abstract, 2025.
-[[PDF](http://majidsalimi.github.io/files/SalimiBeniASHPC25.pdf) | [DOI](https://ashpc.eu/event/25/attachments/151/300/ashpc25_booklet.pdf)]
+[[PDF](http://majidsalimi.github.io/files/SalimiBeniASHPC25.pdf) | [DOI](https://ashpc.eu/event/25/attachments/151/300/ashpc25_booklet.pdf) | [BibTeX](http://majidsalimi.github.io/files/SalimiBeniASHPC25.md)]
 
 - I. Vardas, R. Laso Rodriguez, and M. Salimi Beni, “ncclsee: A Lightweight Profiling Tool for NCCL,” in *Proc. Austrian-Slovenian HPC Meeting (ASHPC25)*, Abstract, 2025.
-[[PDF](http://majidsalimi.github.io/files/VardasASHPC25.pdf) | [DOI](https://ashpc.eu/event/25/attachments/151/300/ashpc25_booklet.pdf)]
+[[PDF](http://majidsalimi.github.io/files/VardasASHPC25.pdf) | [DOI](https://ashpc.eu/event/25/attachments/151/300/ashpc25_booklet.pdf) | [BibTeX](http://majidsalimi.github.io/files/VardasASHPC25.md)]
 
 
 [2024]
