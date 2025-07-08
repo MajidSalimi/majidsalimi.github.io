@@ -12,16 +12,17 @@ redirect_from:
    
  About me
 ------
-I am a postdoctoral researcher in the [Parallel Computing](https://informatics.tuwien.ac.at/orgs/e191-04) research unit at Vienna University of Technology (TU Wien), Austria.
+I am an HPC researcher, working as a postdoctoral researcher in the [Parallel Computing](https://informatics.tuwien.ac.at/orgs/e191-04) research unit at Vienna University of Technology (TU Wien), Austria.
 Previously, I was a Postdoc at the [Department of Computer Science](https://www.isislab.it/about-us-2/#), University of Salerno, Italy, where I completed my PhD in Computer Science. 
 
 Research Interests
 ------
- High Performance and Parallel Computing, Message Passing in Large-scale HPC systems, Energy Efficiency in HPC, Heterogeneous Computing, GPUs
+ High Performance and Parallel Computing, Message Passing in Large-scale HPC systems, Energy Efficiency in HPC, Heterogeneous Computing, HPC for AI, GPU Interconnects
 
 News!
 ------
-- Feb 2025: Our paper about GPU Frequency Scaling is accepted in [IPDPS 2025](https://www.ipdps.org/ipdps2025/2025-call-for-papers.html)!
+- Jun 2025: I presented our paper in the [ASHES Workshop](https://www.ashes-hpc.org/2025/reg.html) at [IPDPS 2025](https://www.ipdps.org/ipdps2025/2025-call-for-papers.html), in Milan.
+- Feb 2025: Our paper about GPU Frequency Scaling is accepted in the main track of [IPDPS 2025](https://www.ipdps.org/ipdps2025/2025-call-for-papers.html)!
 - Oct 2024: I joined the [Parallel Computing](https://informatics.tuwien.ac.at/orgs/e191-04) research unit at Vienna University of Technology (TU Wien) as a Postdoc.
 - Sep 2024: I attended [CLUSTER 2024](https://clustercomp.org/2024/) in Kobe, Japan, to present our [paper](https://majidsalimi.github.io/files/SalimiBeniCLUSTER24.pdf).
 - Jul 2024: Our paper is accepted in [CLUSTER 2024](https://clustercomp.org/2024/)!
