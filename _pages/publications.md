@@ -7,6 +7,9 @@ css_class: small-font
 
 ---
 [2025]
+- L. Carpentieri, A. De Caro, M. Salimi Beni, K. Fan and B. Cosenza, "Phase-Based Frequency Scaling for Energy-Efficient Heterogeneous Computing", *in IEEE International Parallel and Distributed Processing Symposium Workshops (**IPDPS**)*, 2024. **[Acc rate = 24%]**
+[[PDF](http://majidsalimi.github.io/files/Carpentieri_IPDPS25.pdf) | [DOI](https://doi.org/10.1109/IPDPS64566.2025.00078) | [BibTeX](http://majidsalimi.github.io/files/Carpentieri_IPDPS25.md)] <span class="__dimensions_badge_embed__" data-doi="10.1109/IPDPS64566.2025.00078" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
 - M. Salimi Beni and R. Laso and B. Cosenza and S. Benkner and S. Hunold, "Exploring NCCL tuning strategies for distributed deep learning", *in IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPS-W)*, 2024.
 [[PDF](http://majidsalimi.github.io/files/SalimiBeni_ASHES2025.pdf) | [Slides](http://majidsalimi.github.io/files/SLIDES_SalimiBeniCLUSTER24.pdfSLIDES_SalimiBeniCLUSTER24.pdfSalimiBeni_ASHES2025_Slides.pdf) | [DOI](https://doi.org/10.1109/IPDPSW66978.2025.00015) | [BibTeX](http://majidsalimi.github.io/files/SalimiBeni_ASHES2025.md)] <span class="__dimensions_badge_embed__" data-doi="10.1109/IPDPSW66978.2025.00015" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
@@ -18,7 +21,7 @@ css_class: small-font
 
 
 [2024]
-- M. Salimi Beni, B. Cosenza, and S. Hunold, "MPI Collective Algorithm Selection in the Presence of Process Arrival Patterns", *in IEEE International Conference on Cluster Computing (**CLUSTER**)*, 2024.
+- M. Salimi Beni, B. Cosenza, and S. Hunold, "MPI Collective Algorithm Selection in the Presence of Process Arrival Patterns", *in IEEE International Conference on Cluster Computing (**CLUSTER**)*, 2024. **[Acc rate = 26%]**
 [[PDF](http://majidsalimi.github.io/files/SalimiBeniCLUSTER24.pdf) | [Slides](http://majidsalimi.github.io/files/SLIDES_SalimiBeniCLUSTER24.pdf) | [DOI](https://doi.org/10.1109/CLUSTER59578.2024.00017) | [BibTeX](http://majidsalimi.github.io/files/SalimiBeniCLUSTER24.md)] <span class="__dimensions_badge_embed__" data-doi="10.1109/CLUSTER59578.2024.00017" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 - M. Salimi Beni, S. Hunold, and B. Cosenza, “Analysis and prediction of performance variability in large-scale computing systems,” *The Journal of Supercomputing*, 2024.
