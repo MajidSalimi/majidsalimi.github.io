@@ -29,7 +29,7 @@ News!
 - May 2024: I am now a PostDoc researcher in HPC at the University of Salerno. 
 - May 2024: I successfully defended my PhD thesis with an "Excellent" evaluation!
 - Sep 2023: I attended [EURO-PAR 2023](https://2023.euro-par.org/conference/phd-symposium/) in Limassol, Cyprus, to present our paper in the PhD Symposium.
-- Aug 2023: I joined [Parallel Computing group](https://www.tuwien.at/inf/par) at TU Wien (Austria) as a visiting researcher.
+- Sep 2023: I'm visiting [Parallel Computing group](https://www.tuwien.at/inf/par) at TU Wien (Austria).
 - May 2023: I attended [CCGRID 2023](https://ccgrid2023.iisc.ac.in/) in Bangalore, India, to present our paper "[EMPI](https://ieeexplore.ieee.org/abstract/document/10171546)".
 - Nov 2022: Our paper won the **Best Paper Award** in [Bench 2022](https://www.benchcouncil.org/bench2022/index.html).
 - Sep 2022: I attended [IEEE Cluster 2022](https://clustercomp.org/2022/) in Heidelberg, Germany.
