@@ -15,15 +15,11 @@ redirect_from:
 <div class="timeline-wrapper">
   <div class="timeline-entry">
     <h3>Postdoc Researcher</h3>
-    <p><strong>Oct 2024 – Now</strong><br>Vienna University of Technology (TU Wien), Austria</p>
+    <p><strong>Nov 2024 – Now</strong><br>Vienna University of Technology (TU Wien), Austria</p>
   </div>
   <div class="timeline-entry">
     <h3>Postdoc Researcher</h3>
     <p><strong>Feb 2024 – Oct 2024</strong><br>University of Salerno, Italy</p>
-  </div>
-  <div class="timeline-entry">
-    <h3>Visiting Researcher</h3>
-    <p><strong>Aug 2024 – Dec 2024</strong><br>TU Wien, Austria</p>
   </div>
 </div>
 
