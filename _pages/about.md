@@ -12,13 +12,18 @@ redirect_from:
    
  About me
 ------
-I am a Postdoctoral Researcher in the [Parallel Computing](https://informatics.tuwien.ac.at/orgs/e191-04) research unit at TU Wien, Austria. My research is in High-Performance Computing, with a focus on communication in large-scale parallel systems, from MPI-level optimizations to GPU-GPU communication in distributed deep learning.
-Currently, I work on distributed deep learning training from a performance perspective. I profile AI workloads on multi-GPU systems, characterize GPU computation and GPU-GPU communication using NCCL, and investigate tuning strategies to reduce communication overhead. 
 
-Before joining TU Wien, I was a Postdoc at the  [Department of Computer Science](https://www.isislab.it/about-us-2/#), University of Salerno, where I worked on energy-efficient HPC, optimizing scientific workloads for both performance and energy consumption using techniques such as GPU frequency scaling.
-My PhD (University of Salerno, 2020–2024) focused on optimizing MPI-level communication in large-scale HPC systems. I worked on predicting performance variability in distributed applications, designing a modern C++ interface for MPI, and investigating automatic algorithm selection for MPI collective operations.
+<div style="font-size: 0.95em; line-height: 1.6; color: #334155;" markdown="1">
+I am a Postdoc Researcher at [TU Wien](https://www.tuwien.at/en/), Austria. Before that, I was a postdoc at the [University of Salerno](https://web.unisa.it/en/home), Italy, where I also did my PhD.
 
-I am also interested in parallelizing and accelerating scientific code from other domains, bringing HPC techniques to applied scientific computing.
+My research is in High-Performance Computing, with a focus on communication in large-scale HPC systems. During my PhD, I worked on optimizing MPI-level communication, looking at collective algorithms, network behavior, and how message passing can be made more efficient on modern interconnects and network topologies.
+
+At TU Wien, my focus has shifted toward distributed deep learning. I work on GPU-GPU communication, profiling and tuning libraries like NCCL, and understanding where communication becomes a bottleneck in multi-GPU training.
+
+I also have experience in energy-efficient HPC, including techniques such as frequency scaling to reduce power consumption in modern GPUs.
+
+More broadly, I am interested in how HPC techniques can be applied to make large-scale AI training faster and more energy-efficient, and in parallelizing and accelerating scientific code from other domains.
+</div>.
 
 Research Interests
 ------
@@ -46,7 +51,8 @@ Research Interests
   .interest-card h4 {
     margin-top: 0;
     margin-bottom: 8px;
-    font-size: 1.05em;
+    font-size: 0.95em; /* Decreased from 1.05em */
+    font-weight: 600; /* Keeps the header crisp and distinct */
     color: #333;
   }
   .interest-card p {
@@ -61,7 +67,7 @@ Research Interests
 
   <div class="interest-card">
     <h4>High Performance Computing</h4>
-    <p>Accelerating compute-intensive workloads, such as Scientific workloads, through parallelization strategies targeting multi-core, multi-node, and large-scale GPU environments.</p>
+    <p>Accelerating compute-intensive workloads, such as Scientific workloads, through parallelization strategies targeting multi-core, multi-node, and GPU environments.</p>
   </div>
 
   <div class="interest-card">
@@ -82,6 +88,11 @@ Research Interests
   <div class="interest-card">
     <h4>Performance Analysis & Profiling</h4>
     <p>Characterizing and analyzing the performance of parallel and distributed workloads to identify computational bottlenecks, understand system variability, and guide optimization strategies.</p>
+  </div>
+
+  <div class="interest-card">
+    <h4>Scientific Computing</h4>
+    <p>Developing, parallelizing, and accelerating applications for other fields of science to bring higher HPC performance to applied domains.</p>
   </div>
 
 </div>
@@ -123,8 +134,7 @@ News!
 - Nov 2020: I started my PhD at the [University of Salerno](https://web.unisa.it/en/home).
 - Feb 2020: I defended my Master's thesis.-->
 
-
-Recent Program Committee
+Recent Academic Service
 ------
 
 <style>
@@ -132,12 +142,11 @@ Recent Program Committee
     margin-bottom: 25px;
   }
   .service-title {
-    font-size: 1.0em;
+    font-size: 0.95em; /* Decreased font size */
     font-weight: 600;
     margin-bottom: 12px;
     color: #2c3e50;
-    border-bottom: 1px solid #e2e8f0;
-    padding-bottom: 5px;
+    /* Removed the border-bottom here */
   }
   .badge-group {
     display: flex;
@@ -148,15 +157,15 @@ Recent Program Committee
     display: inline-block;
     background-color: #f8f9fa;
     color: #334155 !important;
-    padding: 6px 14px;
+    padding: 5px 12px; /* Slightly reduced padding for proportion */
     border-radius: 20px;
-    font-size: 0.8em;
+    font-size: 0.75em; /* Decreased font size */
     text-decoration: none;
     border: 1px solid #cbd5e1;
     transition: all 0.2s ease;
   }
   .service-badge:hover {
-    background-color: #0066cc; /* Matches your interest cards */
+    background-color: #0066cc; 
     color: #ffffff !important;
     border-color: #0066cc;
     transform: translateY(-2px);
