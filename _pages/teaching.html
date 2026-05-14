@@ -9,87 +9,112 @@ author_profile: true
 
 <style>
   .teaching-section {
-    margin-bottom: 40px;
+    margin-bottom: 35px;
   }
-  .course-card {
-    background-color: #f8f9fa;
-    border-left: 4px solid #0066cc; /* Matches your site's accent color */
-    padding: 15px 20px;
-    margin-bottom: 15px;
-    border-radius: 4px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-    transition: transform 0.2s ease;
-  }
-  .course-card:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-  }
-  .course-title {
-    font-size: 1.1em;
-    font-weight: 600;
+  .role-title {
+    font-size: 1.2em;
+    font-weight: bold;
     color: #2c3e50;
-    margin: 0 0 5px 0;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #0066cc; /* Subtle academic blue underline */
+    padding-bottom: 5px;
+    display: inline-block;
   }
-  .course-meta {
-    font-size: 0.95em;
-    color: #475569;
-    margin: 0 0 5px 0;
+  .teaching-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
   }
-  .course-meta a {
-    text-decoration: none;
+  .teaching-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 8px 0;
+    border-bottom: 1px solid #e2e8f0;
   }
-  .course-meta a:hover {
-    text-decoration: underline;
+  .teaching-item:last-child {
+    border-bottom: none;
   }
-  .course-tags {
+  .course-info {
+    max-width: 75%;
+  }
+  .course-name {
+    font-weight: 600;
+    font-size: 1em;
+    color: #334155;
+  }
+  .institution-name {
     font-size: 0.85em;
     color: #64748b;
     font-style: italic;
+    margin-top: 2px;
+  }
+  .institution-name a {
+    color: #0066cc;
+    text-decoration: none;
+  }
+  .institution-name a:hover {
+    text-decoration: underline;
+  }
+  .course-year {
+    font-size: 0.9em;
+    font-weight: 500;
+    color: #475569;
+    text-align: right;
+    white-space: nowrap;
   }
 </style>
 
 <div class="teaching-section">
-  <h2>Instructor</h2>
-  <hr>
-
-  <div class="course-card">
-    <div class="course-title">High Performance Computing (M.Sc.)</div>
-    <div class="course-meta"><a href="https://www.tuwien.at/en/">Vienna University of Technology (TU Wien)</a></div>
-    <div class="course-tags">2026</div>
-  </div>
-
-  <div class="course-card">
-    <div class="course-title">Parallel Computing (B.Sc.)</div>
-    <div class="course-meta"><a href="https://www.tuwien.at/en/">Vienna University of Technology (TU Wien)</a></div>
-    <div class="course-tags">2025</div>
-  </div>
+  <div class="role-title">Co-Instructor</div>
+  <ul class="teaching-list">
+    <li class="teaching-item">
+      <div class="course-info">
+        <div class="course-name">High Performance Computing (M.Sc.)</div>
+        <div class="institution-name"><a href="https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=4537&dsrid=407&semester=2026S&courseNr=191029">Vienna University of Technology (TU Wien)</a></div>
+      </div>
+      <div class="course-year">2026</div>
+    </li>
+    <li class="teaching-item">
+      <div class="course-info">
+        <div class="course-name">Parallel Computing (B.Sc.)</div>
+        <div class="institution-name"><a href="https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=8201&dsrid=908&semester=2025S&courseNr=184710">Vienna University of Technology (TU Wien)</a></div>
+      </div>
+      <div class="course-year">2025</div>
+    </li>
+  </ul>
 </div>
 
 <div class="teaching-section">
-  <h2>Teaching Assistant</h2>
-  <hr>
-
-  <div class="course-card">
-    <div class="course-title">High-Performance Computing (M.Sc.)</div>
-    <div class="course-meta">University of Salerno</div>
-    <div class="course-tags">2021, 2022, 2023, 2024</div>
-  </div>
-
-  <div class="course-card">
-    <div class="course-title">Parallel Algorithms (M.Sc.)</div>
-    <div class="course-meta">Shiraz University</div>
-    <div class="course-tags">2020</div>
-  </div>
-
-  <div class="course-card">
-    <div class="course-title">Cloud Computing (M.Sc.)</div>
-    <div class="course-meta">Shiraz University</div>
-    <div class="course-tags">2019</div>
-  </div>
-
-  <div class="course-card">
-    <div class="course-title">Data Structures (B.Sc.)</div>
-    <div class="course-meta">Birjand University</div>
-    <div class="course-tags">2015, 2016</div>
-  </div>
+  <div class="role-title">Teaching Assistant</div>
+  <ul class="teaching-list">
+    <li class="teaching-item">
+      <div class="course-info">
+        <div class="course-name">High-Performance Computing (M.Sc.)</div>
+        <div class="institution-name">University of Salerno</div>
+      </div>
+      <div class="course-year">2021 – 2024</div>
+    </li>
+    <li class="teaching-item">
+      <div class="course-info">
+        <div class="course-name">Parallel Algorithms (M.Sc.)</div>
+        <div class="institution-name">Shiraz University</div>
+      </div>
+      <div class="course-year">2020</div>
+    </li>
+    <li class="teaching-item">
+      <div class="course-info">
+        <div class="course-name">Cloud Computing (M.Sc.)</div>
+        <div class="institution-name">Shiraz University</div>
+      </div>
+      <div class="course-year">2019</div>
+    </li>
+    <li class="teaching-item">
+      <div class="course-info">
+        <div class="course-name">Data Structures (B.Sc.)</div>
+        <div class="institution-name">Birjand University</div>
+      </div>
+      <div class="course-year">2015 – 2016</div>
+    </li>
+  </ul>
 </div>
