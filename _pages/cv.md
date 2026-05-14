@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -19,15 +19,15 @@ redirect_from:
   }
   .timeline-entry {
     position: relative;
-    margin-bottom: 30px;
+    margin-bottom: 25px; /* Slightly reduced spacing between items */
   }
   .timeline-entry::before {
     content: '';
     position: absolute;
     left: -35px; 
     top: 6px;
-    width: 16px;
-    height: 16px;
+    width: 14px; /* Slightly smaller dot to match smaller text */
+    height: 14px;
     background-color: white;
     border: 3px solid #0066cc;
     border-radius: 50%;
@@ -37,19 +37,19 @@ redirect_from:
     background-color: #0066cc; 
   }
   .timeline-title {
-    font-size: 1.15em;
+    font-size: 1.0em; /* Decreased from 1.15em */
     font-weight: 600;
     color: #2c3e50;
     margin: 0 0 4px 0;
   }
   .timeline-subtitle {
-    font-size: 1em;
+    font-size: 0.9em; /* Decreased from 1.0em */
     font-weight: 500;
     color: #333;
     margin: 0 0 4px 0;
   }
   .timeline-meta {
-    font-size: 0.9em;
+    font-size: 0.85em; /* Decreased from 0.9em */
     color: #64748b;
     font-style: italic;
   }
