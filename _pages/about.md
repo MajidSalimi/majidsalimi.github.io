@@ -12,13 +12,38 @@ redirect_from:
    
  About me
 ------
-I am an HPC researcher, working as a postdoctoral researcher in the [Parallel Computing](https://informatics.tuwien.ac.at/orgs/e191-04) research unit at Vienna University of Technology (TU Wien), Austria.
-Previously, I was a Postdoc at the [Department of Computer Science](https://www.isislab.it/about-us-2/#), University of Salerno, Italy, where I completed my PhD in Computer Science. 
+I am a Postdoctoral Researcher in the [Parallel Computing](https://informatics.tuwien.ac.at/orgs/e191-04) research unit at TU Wien, Austria. My research is in High-Performance Computing, with a focus on communication in large-scale parallel systems, from MPI-level optimizations to GPU-GPU communication in distributed deep learning.
+Currently, I work on distributed deep learning training from a performance perspective. I profile AI workloads on multi-GPU systems, characterize GPU computation and GPU-GPU communication using NCCL, and investigate tuning strategies to reduce communication overhead. 
+
+Before joining TU Wien, I was a Postdoc at the  [Department of Computer Science](https://www.isislab.it/about-us-2/#), University of Salerno, where I worked on energy-efficient HPC, optimizing scientific workloads for both performance and energy consumption using techniques such as GPU frequency scaling.
+My PhD (University of Salerno, 2020–2024) focused on optimizing MPI-level communication in large-scale HPC systems. I worked on predicting performance variability in distributed applications, designing a modern C++ interface for MPI, and investigating automatic algorithm selection for MPI collective operations.
+
+I am also interested in parallelizing and accelerating scientific code from other domains, bringing HPC techniques to applied scientific computing.
 
 Research Interests
 ------
  High Performance and Parallel Computing, Message Passing in Large-scale HPC systems, Energy Efficiency in HPC, Heterogeneous Computing, HPC for AI, GPU Interconnects
 
+News!
+------
+<div style="max-height: 250px; overflow-y: auto; border: 1px solid #e2e8f0; padding: 15px; border-radius: 5px; margin-bottom: 20px;" markdown="1">
+- Jun 2025: I presented our paper in the [ASHES Workshop](https://www.ashes-hpc.org/2025/reg.html) at [IPDPS 2025](https://www.ipdps.org/ipdps2025/2025-call-for-papers.html), in Milan.
+- Feb 2025: Our paper about GPU Frequency Scaling is accepted in the main track of [IPDPS 2025](https://www.ipdps.org/ipdps2025/2025-call-for-papers.html)!
+- Oct 2024: I joined the [Parallel Computing](https://informatics.tuwien.ac.at/orgs/e191-04) research unit at Vienna University of Technology (TU Wien) as a Postdoc.
+- Sep 2024: I attended [CLUSTER 2024](https://clustercomp.org/2024/) in Kobe, Japan, to present our [paper](https://majidsalimi.github.io/files/SalimiBeniCLUSTER24.pdf).
+- Jul 2024: Our paper is accepted in [CLUSTER 2024](https://clustercomp.org/2024/)!
+- May 2024: I am now a PostDoc researcher in HPC at the University of Salerno. 
+- May 2024: I successfully defended my PhD thesis with an "Excellent" evaluation!
+- Sep 2023: I attended [EURO-PAR 2023](https://2023.euro-par.org/conference/phd-symposium/) in Limassol, Cyprus, to present our paper in the PhD Symposium.
+- Sep 2023: I'm visiting [Parallel Computing group](https://www.tuwien.at/inf/par) at TU Wien (Austria).
+- May 2023: I attended [CCGRID 2023](https://ccgrid2023.iisc.ac.in/) in Bangalore, India, to present our paper "[EMPI](https://ieeexplore.ieee.org/abstract/document/10171546)".
+- Nov 2022: Our paper won the **Best Paper Award** in [Bench 2022](https://www.benchcouncil.org/bench2022/index.html).
+- Sep 2022: I attended [IEEE Cluster 2022](https://clustercomp.org/2022/) in Heidelberg, Germany.
+- Nov 2020: I started my PhD at the [University of Salerno](https://web.unisa.it/en/home).
+- Feb 2020: I defended my Master's thesis.
+</div>
+
+<!--
 News!
 ------
 - Jun 2025: I presented our paper in the [ASHES Workshop](https://www.ashes-hpc.org/2025/reg.html) at [IPDPS 2025](https://www.ipdps.org/ipdps2025/2025-call-for-papers.html), in Milan.
@@ -34,7 +59,8 @@ News!
 - Nov 2022: Our paper won the **Best Paper Award** in [Bench 2022](https://www.benchcouncil.org/bench2022/index.html).
 - Sep 2022: I attended [IEEE Cluster 2022](https://clustercomp.org/2022/) in Heidelberg, Germany.
 - Nov 2020: I started my PhD at the [University of Salerno](https://web.unisa.it/en/home).
-- Feb 2020: I defended my Master's thesis.
+- Feb 2020: I defended my Master's thesis.-->
+
 
 Recent Program Committee
 ------
