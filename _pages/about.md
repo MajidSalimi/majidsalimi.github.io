@@ -22,11 +22,73 @@ I am also interested in parallelizing and accelerating scientific code from othe
 
 Research Interests
 ------
- High Performance and Parallel Computing, Message Passing in Large-scale HPC systems, Energy Efficiency in HPC, Heterogeneous Computing, HPC for AI, GPU Interconnects
+
+<style>
+  .interests-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+  .interest-card {
+    background-color: #f8f9fa; 
+    border-left: 4px solid #0066cc; /* A clean, academic blue */
+    padding: 15px 20px;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    transition: transform 0.2s ease;
+  }
+  .interest-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+  .interest-card h4 {
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-size: 1.05em;
+    color: #333;
+  }
+  .interest-card p {
+    margin: 0;
+    font-size: 0.9em;
+    color: #555;
+    line-height: 1.5;
+  }
+</style>
+
+<div class="interests-grid" markdown="1">
+
+  <div class="interest-card">
+    <h4>High Performance Computing</h4>
+    <p>Accelerating compute-intensive workloads, such as Scientific workloads, through parallelization strategies targeting multi-core, multi-node, and large-scale GPU environments.</p>
+  </div>
+
+  <div class="interest-card">
+    <h4>HPC for AI</h4>
+    <p>Optimizing multi-GPU deep learning training by analyzing and profiling computation and communication phases, with a focus on tuning the NCCL communication layer to improve performance.</p>
+  </div>
+
+  <div class="interest-card">
+    <h4>HPC Interconnects & Topologies</h4>
+    <p>Profiling and optimizing high-speed interconnects (like InfiniBand and NVLink) and large-scale network topologies (such as Dragonfly+). Focused on tuning message-passing libraries (MPI, NCCL) to minimize latency and communication overhead.</p>
+  </div>
+
+  <div class="interest-card">
+    <h4>Energy-Efficient HPC</h4>
+    <p>Applying power-aware practices, such as frequency scaling, to optimize the performance-to-power ratio in HPC applications.</p>
+  </div>
+
+  <div class="interest-card">
+    <h4>Performance Analysis & Profiling</h4>
+    <p>Characterizing and analyzing the performance of parallel and distributed workloads to identify computational bottlenecks, understand system variability, and guide optimization strategies.</p>
+  </div>
+
+</div>
 
 News!
 ------
-<div style="max-height: 250px; overflow-y: auto; border: 1px solid #e2e8f0; padding: 15px; border-radius: 5px; margin-bottom: 20px;" markdown="1">
+<div style="max-height: 250px; overflow-y: auto; border: 1px solid #e2e8f0; padding: 15px; border-radius: 5px; margin-bottom: 30px; font-size: 0.85em;" markdown="1">
 - Jun 2025: I presented our paper in the [ASHES Workshop](https://www.ashes-hpc.org/2025/reg.html) at [IPDPS 2025](https://www.ipdps.org/ipdps2025/2025-call-for-papers.html), in Milan.
 - Feb 2025: Our paper about GPU Frequency Scaling is accepted in the main track of [IPDPS 2025](https://www.ipdps.org/ipdps2025/2025-call-for-papers.html)!
 - Oct 2024: I joined the [Parallel Computing](https://informatics.tuwien.ac.at/orgs/e191-04) research unit at Vienna University of Technology (TU Wien) as a Postdoc.
@@ -64,15 +126,97 @@ News!
 
 Recent Program Committee
 ------
-**Program Committee**: [ICPP 2025](https://icpp2025.sdsc.edu/program/organizing-committee), [ISC 2025](https://isc-hpc.com/submissions/research-paper/), [CF 2025](https://www.computingfrontiers.org/2025/orga.html), [BigHPC 2024](https://www.itadata.it/2024/bighpc2024), [Bench 2024](https://www.benchcouncil.org/bench2024/committess.html), [ICTAI 2023](https://ictai.computer.org/2023/committees/committee/), [CSTY 2023](https://csty2023.org/committee), [ICECCME 2023](http://www.iceccme.com/), [CSAE 2022](http://www.csaeconf.org), [ECCSIT 2022](https://www.eccsit.org)
 
-**Artifact Evaluation Committee:** [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/committees/#AE-committee), [CF 2024](https://www.computingfrontiers.org/2024/index.html), [CF 2022](https://www.computingfrontiers.org/2022/), [IA3 2022](https://hpc.pnl.gov/IA3/)
+<style>
+  .service-section {
+    margin-bottom: 25px;
+  }
+  .service-title {
+    font-size: 1.0em;
+    font-weight: 600;
+    margin-bottom: 12px;
+    color: #2c3e50;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 5px;
+  }
+  .badge-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  .service-badge {
+    display: inline-block;
+    background-color: #f8f9fa;
+    color: #334155 !important;
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 0.8em;
+    text-decoration: none;
+    border: 1px solid #cbd5e1;
+    transition: all 0.2s ease;
+  }
+  .service-badge:hover {
+    background-color: #0066cc; /* Matches your interest cards */
+    color: #ffffff !important;
+    border-color: #0066cc;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    text-decoration: none;
+  }
+</style>
 
-**Poster Committee:** [CF 2024](https://www.computingfrontiers.org/2024/index.html)
+<div class="service-section">
+  <div class="service-title">Program Committee</div>
+  <div class="badge-group">
+    <a href="https://indico.desy.de/event/50985/" class="service-badge">ISPDC 2026</a>
+    <a href="https://www.computingfrontiers.org/2026/index.html" class="service-badge">CF 2026</a>
+    <a href="https://icpp2025.sdsc.edu/program/organizing-committee" class="service-badge">ICPP 2025</a>
+    <a href="https://isc-hpc.com/submissions/research-paper/" class="service-badge">ISC 2025</a>
+    <a href="https://www.computingfrontiers.org/2025/orga.html" class="service-badge">CF 2025</a>
+    <a href="https://www.itadata.it/2024/bighpc2024" class="service-badge">BigHPC 2024</a>
+    <a href="https://www.benchcouncil.org/bench2024/committess.html" class="service-badge">Bench 2024</a>
+    <a href="https://ictai.computer.org/2023/committees/committee/" class="service-badge">ICTAI 2023</a>
+    <a href="https://csty2023.org/committee" class="service-badge">CSTY 2023</a>
+    <a href="http://www.iceccme.com/" class="service-badge">ICECCME 2023</a>
+    <a href="http://www.csaeconf.org" class="service-badge">CSAE 2022</a>
+    <a href="https://www.eccsit.org" class="service-badge">ECCSIT 2022</a>
+  </div>
+</div>
 
-**Sub-Reviewer:** [CCGRID 2025](https://site.uit.no/ccgrid2025/), [HiPC 2023](https://hipc.org/programcomittee/), [PARMA-DITAM 2022](https://parma-ditam-workshop.github.io/), [PARMA-DITAM 2021](https://parma-ditam-workshop.github.io/2021/index.html) 
+<div class="service-section">
+  <div class="service-title">Artifact Evaluation Committee</div>
+  <div class="badge-group">
+    <a href="https://www.asplos-conference.org/asplos2024/committees/#AE-committee" class="service-badge">ASPLOS 2024</a>
+    <a href="https://www.computingfrontiers.org/2024/index.html" class="service-badge">CF 2024</a>
+    <a href="https://www.computingfrontiers.org/2022/" class="service-badge">CF 2022</a>
+    <a href="https://hpc.pnl.gov/IA3/" class="service-badge">IA3 2022</a>
+  </div>
+</div>
 
-**Journal Review:** [FGCS](https://www.sciencedirect.com/journal/future-generation-computer-systems), [Journal of Supercomputing](https://link.springer.com/journal/11227)
+<div class="service-section">
+  <div class="service-title">Poster Committee</div>
+  <div class="badge-group">
+    <a href="https://www.computingfrontiers.org/2024/index.html" class="service-badge">CF 2024</a>
+  </div>
+</div>
+
+<div class="service-section">
+  <div class="service-title">Sub-Reviewer</div>
+  <div class="badge-group">
+    <a href="https://site.uit.no/ccgrid2025/" class="service-badge">CCGRID 2025</a>
+    <a href="https://hipc.org/programcomittee/" class="service-badge">HiPC 2023</a>
+    <a href="https://parma-ditam-workshop.github.io/" class="service-badge">PARMA-DITAM 2022</a>
+    <a href="https://parma-ditam-workshop.github.io/2021/index.html" class="service-badge">PARMA-DITAM 2021</a>
+  </div>
+</div>
+
+<div class="service-section">
+  <div class="service-title">Journal Review</div>
+  <div class="badge-group">
+    <a href="https://www.sciencedirect.com/journal/future-generation-computer-systems" class="service-badge">FGCS</a>
+    <a href="https://link.springer.com/journal/11227" class="service-badge">Journal of Supercomputing</a>
+  </div>
+</div>
 
 -----
 
