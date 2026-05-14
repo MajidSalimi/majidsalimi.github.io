@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " "
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,116 +9,99 @@ redirect_from:
 
 {% include base_path %}
 
+<style>
+  .timeline {
+    border-left: 3px solid #0066cc;
+    padding-left: 25px;
+    margin-left: 10px;
+    margin-bottom: 40px;
+    position: relative;
+  }
+  .timeline-entry {
+    position: relative;
+    margin-bottom: 30px;
+  }
+  .timeline-entry::before {
+    content: '';
+    position: absolute;
+    left: -35px; 
+    top: 6px;
+    width: 16px;
+    height: 16px;
+    background-color: white;
+    border: 3px solid #0066cc;
+    border-radius: 50%;
+    transition: background-color 0.3s ease;
+  }
+  .timeline-entry:hover::before {
+    background-color: #0066cc; 
+  }
+  .timeline-title {
+    font-size: 1.15em;
+    font-weight: 600;
+    color: #2c3e50;
+    margin: 0 0 4px 0;
+  }
+  .timeline-subtitle {
+    font-size: 1em;
+    font-weight: 500;
+    color: #333;
+    margin: 0 0 4px 0;
+  }
+  .timeline-meta {
+    font-size: 0.9em;
+    color: #64748b;
+    font-style: italic;
+  }
+</style>
+
 # Experience
 ---
 
-<div class="timeline-wrapper">
+<div class="timeline">
+
   <div class="timeline-entry">
-    <h3>Postdoc Researcher</h3>
-    <p><strong>Nov 2024 – Now</strong><br>Vienna University of Technology (TU Wien), Austria</p>
+    <div class="timeline-title">Postdoctoral Fellow</div>
+    <div class="timeline-subtitle">Vienna University of Technology (TU Wien), Research Group for Parallel Computing</div>
+    <div class="timeline-meta">Nov 2024 – Present | Vienna, Austria</div>
   </div>
+
   <div class="timeline-entry">
-    <h3>Postdoc Researcher</h3>
-    <p><strong>Feb 2024 – Oct 2024</strong><br>University of Salerno, Italy</p>
+    <div class="timeline-title">Postdoctoral Fellow</div>
+    <div class="timeline-subtitle">University of Salerno, Department of Computer Science</div>
+    <div class="timeline-meta">Feb 2024 – Oct 2024 | Salerno, Italy</div>
   </div>
+
+  <div class="timeline-entry">
+    <div class="timeline-title">Visiting Researcher</div>
+    <div class="timeline-subtitle">Vienna University of Technology (TU Wien), Research Group for Parallel Computing</div>
+    <div class="timeline-meta">Sep 2023 – Dec 2023 | Vienna, Austria</div>
+  </div>
+
 </div>
+
 
 # Education
 ---
 
-<div class="timeline-wrapper">
+<div class="timeline">
+
   <div class="timeline-entry">
-    <h3>Ph.D. in Computer Science</h3>
-    <p><strong>2020 – 2024</strong><br>University of Salerno, Italy</p>
+    <div class="timeline-title">Ph.D. in Computer Science</div>
+    <div class="timeline-subtitle">University of Salerno</div>
+    <div class="timeline-meta">2020 – 2024 | Salerno, Italy</div>
   </div>
+
   <div class="timeline-entry">
-    <h3>M.Sc. in Computer Engineering – Software</h3>
-    <p><strong>2017 – 2020</strong><br>Shiraz University, Iran</p>
+    <div class="timeline-title">M.Sc. in Computer Engineering – Software</div>
+    <div class="timeline-subtitle">Shiraz University</div>
+    <div class="timeline-meta">2017 – 2020 | Shiraz, Iran</div>
   </div>
+
   <div class="timeline-entry">
-    <h3>B.Sc. in Computer Engineering – Software</h3>
-    <p><strong>2012 – 2016</strong><br>University of Birjand, Iran</p>
+    <div class="timeline-title">B.Sc. in Computer Engineering – Software</div>
+    <div class="timeline-subtitle">Birjand University</div>
+    <div class="timeline-meta">2012 – 2016 | Birjand, Iran</div>
   </div>
+
 </div>
-
-
-<!--
----
-layout: archive
-title: " "
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
-
-# Experience
----
-### Postdoc Researcher  
-*[Oct 2024 - Now]* Vienna University of Technology (TU Wien), Austria
-
-*[Feb 2024 - Oct 2024]* University of Salerno, Italy
-
-### Visiting Researcher  
-*[Aug 2024 - Dec 2024]*  TU Wien, Austria
-
-# Education
----
-### Ph.D. in Computer Science  
-*[2020 - 2024]*  University of Salerno, Italy
-
-### M.Sc. in Computer Engineering - Software
-*[2017 - 2020]*  Shiraz University, Iran
-
-### B.Sc. in Computer Engineering - Software
-*[2012 - 2016]*  University of Birjand, Iran -->
-
-
-
-
-
-<!-- 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
