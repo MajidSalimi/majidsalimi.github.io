@@ -93,6 +93,47 @@ author_profile: true
   }
 </style>
 
+<div class="pub-year">2026</div>
+
+<div class="pub-item">
+  <div class="pub-header">
+    <div class="pub-title">Where Did My NCCL Calls Go? A Profiler Comparison</div>
+    <div class="pub-links">
+      <a href="http://majidsalimi.github.io/files/PDSEC2026_ncclsee.pdf" class="pub-btn">PDF</a>
+      <a href="http://majidsalimi.github.io/files/PDSEC2026_ncclsee.md" class="pub-btn">BibTeX</a>
+    </div>
+  </div>
+  <div class="pub-authors">R. Laso, S. Benkner, <strong>M. Salimi Beni</strong>, I. Vardas, and S. Hunold</div>
+  <div class="pub-venue">The 27th IEEE International Workshop on Parallel and Distributed Scientific and Engineering Computing (PDSEC), 2026.</div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-header">
+    <div class="pub-title">To ncclsee, or Not to ncclsee: That is the Profiling Question</div>
+    <div class="pub-links">
+      <a href="http://majidsalimi.github.io/files/ASHPC2026_ncclsee.pdf" class="pub-btn">PDF</a>
+      <a href="https://ashpc.eu/event/27/attachments/154/410/ASHPC26_BOOKLET.pdf" class="pub-btn">DOI</a>
+      <a href="http://majidsalimi.github.io/files/ASHPC2026_ncclsee.md" class="pub-btn">BibTeX</a>
+    </div>
+  </div>
+  <div class="pub-authors">R. Laso, <strong>M. Salimi Beni</strong>, I. Vardas, S. Benkner, and S. Hunold</div>
+  <div class="pub-venue">Austrian-Slovenian HPC Meeting (ASHPC26), Abstract, 2026.</div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-header">
+    <div class="pub-title">Simulating MPI Collectives on Tofino Smart Switches in SimGrid</div>
+    <div class="pub-links">
+      <a href="http://majidsalimi.github.io/files/CF2026_Tofino.pdf" class="pub-btn">PDF</a>
+      <a href="https://doi.org/10.1145/3801487.3801809" class="pub-btn">DOI</a>
+      <a href="http://majidsalimi.github.io/files/CF2026_Tofino.md" class="pub-btn">BibTeX</a>
+      <span class="__dimensions_badge_embed__" data-doi="10.1145/3801487.3801809" data-style="small_rectangle"></span>
+    </div>
+  </div>
+  <div class="pub-authors">A. M. S. Belbeisi, <strong>M. Salimi Beni</strong>, T. Erbesdobler, E. Saleh, M. Tovey, A. Raoofy, and J. Weidendorfer</div>
+  <div class="pub-venue">23rd ACM International Conference on Computing Frontiers (CF'26), 2026.</div>
+</div>
+
 <div class="pub-year">2025</div>
 
 <div class="pub-item">
