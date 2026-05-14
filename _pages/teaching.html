@@ -7,6 +7,89 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<style>
+  .teaching-section {
+    margin-bottom: 40px;
+  }
+  .course-card {
+    background-color: #f8f9fa;
+    border-left: 4px solid #0066cc; /* Matches your site's accent color */
+    padding: 15px 20px;
+    margin-bottom: 15px;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    transition: transform 0.2s ease;
+  }
+  .course-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+  .course-title {
+    font-size: 1.1em;
+    font-weight: 600;
+    color: #2c3e50;
+    margin: 0 0 5px 0;
+  }
+  .course-meta {
+    font-size: 0.95em;
+    color: #475569;
+    margin: 0 0 5px 0;
+  }
+  .course-meta a {
+    text-decoration: none;
+  }
+  .course-meta a:hover {
+    text-decoration: underline;
+  }
+  .course-tags {
+    font-size: 0.85em;
+    color: #64748b;
+    font-style: italic;
+  }
+</style>
+
+<div class="teaching-section">
+  <h2>Instructor</h2>
+  <hr>
+
+  <div class="course-card">
+    <div class="course-title">High Performance Computing (M.Sc.)</div>
+    <div class="course-meta"><a href="https://www.tuwien.at/en/">Vienna University of Technology (TU Wien)</a></div>
+    <div class="course-tags">2026</div>
+  </div>
+
+  <div class="course-card">
+    <div class="course-title">Parallel Computing (B.Sc.)</div>
+    <div class="course-meta"><a href="https://www.tuwien.at/en/">Vienna University of Technology (TU Wien)</a></div>
+    <div class="course-tags">2025</div>
+  </div>
+</div>
+
+<div class="teaching-section">
+  <h2>Teaching Assistant</h2>
+  <hr>
+
+  <div class="course-card">
+    <div class="course-title">High-Performance Computing (M.Sc.)</div>
+    <div class="course-meta">University of Salerno</div>
+    <div class="course-tags">2021, 2022, 2023, 2024</div>
+  </div>
+
+  <div class="course-card">
+    <div class="course-title">Parallel Algorithms (M.Sc.)</div>
+    <div class="course-meta">Shiraz University</div>
+    <div class="course-tags">2020</div>
+  </div>
+
+  <div class="course-card">
+    <div class="course-title">Cloud Computing (M.Sc.)</div>
+    <div class="course-meta">Shiraz University</div>
+    <div class="course-tags">2019</div>
+  </div>
+
+  <div class="course-card">
+    <div class="course-title">Data Structures (B.Sc.)</div>
+    <div class="course-meta">Birjand University</div>
+    <div class="course-tags">2015, 2016</div>
+  </div>
+</div>
