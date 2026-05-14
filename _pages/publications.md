@@ -103,7 +103,7 @@ author_profile: true
       <a href="http://majidsalimi.github.io/files/PDSEC2026_ncclsee.md" class="pub-btn">BibTeX</a>
     </div>
   </div>
-  <div class="pub-authors">R. Laso, S. Benkner, <strong>M. Salimi Beni</strong>, I. Vardas, and S. Hunold</div>
+  <div class="pub-authors">R. Laso, <strong>M. Salimi Beni</strong>, I. Vardas, S. Benkner, and S. Hunold</div>
   <div class="pub-venue">The 27th IEEE International Workshop on Parallel and Distributed Scientific and Engineering Computing (PDSEC), 2026.</div>
 </div>
 
