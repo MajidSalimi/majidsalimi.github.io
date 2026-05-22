@@ -147,7 +147,7 @@ author_profile: true
     </div>
   </div>
   <div class="pub-authors">L. Carpentieri, A. De Caro, <strong>M. Salimi Beni</strong>, K. Fan, and B. Cosenza</div>
-  <div class="pub-venue">IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPS), 2025. <span class="pub-acc-rate">Acc rate = 24%</span></div>
+  <div class="pub-venue">IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2025. <span class="pub-acc-rate">Acc rate = 24%</span></div>
 </div>
 
 <div class="pub-item">
