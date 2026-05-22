@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 
-------
    
  About me
 ------
@@ -23,7 +22,7 @@ At TU Wien, my focus has shifted toward distributed deep learning. I work on GPU
 I also have experience in energy-efficient HPC, including techniques such as frequency scaling to reduce power consumption in modern GPUs.
 
 More broadly, I am interested in how HPC techniques can be applied to make large-scale AI training faster and more energy-efficient, and in parallelizing and accelerating scientific code from other domains.
-</div>.
+</div>
 
 Research Interests
 ------
@@ -71,7 +70,7 @@ Research Interests
   </div>
 
   <div class="interest-card">
-    <h4>HPC for AI</h4>
+    <h4>System for AI</h4>
     <p>Optimizing multi-GPU deep learning training by analyzing and profiling computation and communication phases, with a focus on tuning the NCCL communication layer to improve performance.</p>
   </div>
 
